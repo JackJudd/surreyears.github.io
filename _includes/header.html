@@ -4,13 +4,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-<<<<<<< HEAD
-      <img src="{% include EARSLogo.png %}" style="max-width: 200px;"
-      alt="EARS Logo"/>
-=======
-      <img src="{% include EARSLogo.svg %}" style="max-width: {{ include.max-width }};"
+      <img src="{% include EARSLogo.png %}" style="max-width: {{ include.max-width }};"
       alt="{{ include.alt }}"/>
->>>>>>> parent of 357e493... test with png
     </a>
 
     {%- if page_paths -%}
