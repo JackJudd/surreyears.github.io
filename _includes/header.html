@@ -4,7 +4,11 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a rel="author" href="{{ "/" | relative_url }}">{{ | escape }}
-      <img src="/assets/EARSLogo.png" height="5%" width="auto"/>
+      <svg>
+        <g transform="scale(.5)">
+          <img src="/assets/EARSLogo.svg" height="5%" width="auto"/>
+        </g>
+      </svg>
     </a>
 
     {%- if page_paths -%}
