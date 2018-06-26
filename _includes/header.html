@@ -6,7 +6,7 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}
       <img src="{{ include.file }}" style="max-width: {{ include.max-width }};"
       alt="{{ include.alt }}">
-      {% include max-width="200px" file="EARSlogo.png" alt="EARS logo" %}
+      {% include image.html max-width="200px" file="EARSlogo.png" alt="EARS logo" %}
     </a>
 
     {%- if page_paths -%}
