@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}
-      <img src="EARSlogo.png" style="max-width: 200px;" alt="Jekyll logo" />
+      <img src="_includes/EARSlogo.png" style="max-width: 200px;" alt="Jekyll logo" />
     </a>
 
     {%- if page_paths -%}
