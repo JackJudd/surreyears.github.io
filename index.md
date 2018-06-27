@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: We're Surrey EARS
 ---
 
-# We're Surrey EARS!
+<!-- # We're Surrey EARS! -->
 ![EARS!!!](/assets/ScraphEEpEARSBanner.jpg)
 
 EARS is the University of Surrey's Electronics and Amateur Radio Society. We're the University's maker society, supporting members with projects in our Makerspace and Shack. We're particularly excited about projects in the areas of space, electronics, and amateur radio.
