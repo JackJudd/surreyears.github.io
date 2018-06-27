@@ -15,9 +15,10 @@ We run amateur radio licence training and courses in Python and Arduino. Anyone 
 
 # [Join EARS!](https://activity.ussu.co.uk/ears/get-involved)
 
-
-## More stuff
-* This is a bullet
-* followed by another
-
-lots of gibberish is going here just to test out the layout optyions.
+## Other EARS Sites
+* [The Wiki!](http://wiki.surreyears.co.uk)
+* [Slack](https://surreyears.slack.com)
+* [The Facebook Group](https://www.facebook.com/groups/SurreyEARS/)
+* [Facebook Page](https://www.facebook.com/SurreyEARS/)
+* [Flickr](https://flickr.com/surreyears)
+* [Github](https://github.com/SurreyEARS)
