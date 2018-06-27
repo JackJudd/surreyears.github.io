@@ -6,14 +6,13 @@ layout: home
 ---
 
 # We're Surrey EARS!
+![EARS!!!](/assets/ScraphEEpEARSBanner.jpg)
+
 EARS is the University of Surrey's Electronics and Amateur Radio Society. We're the University's maker society, supporting members with projects in our Makerspace and Shack. We're particularly excited about projects in the areas of space, electronics, and amateur radio.
 
 We run amateur radio licence training and courses in Python and Arduino. Anyone at Surrey can join in, no matter how much experience you have.
 
-![EARS!!!](/assets/ScraphEEpEARSBanner.jpg)
-
 # Join EARS!
-
 
 
 ## More stuff
