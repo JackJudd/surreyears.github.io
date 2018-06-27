@@ -7,3 +7,7 @@ layout: home
 
 # Lots of stuff about EARs
 ## More stuff
+* This is a bullet
+* followed by another
+
+lots of gibberish is going here just to test out the layout optyions.
