@@ -10,7 +10,7 @@ EARS is the University of Surrey's Electronics and Amateur Radio Society. We're 
 
 We run amateur radio licence training and courses in Python and Arduino. Anyone at Surrey can join in, no matter how much experience you have.
 
-![EARS!!!](/assets/ScraphEEpEARSBanner.jpg")
+![EARS!!!](assets/ScraphEEpEARSBanner.jpg")
 
 # Join EARS!
 
