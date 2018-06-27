@@ -5,4 +5,4 @@
 layout: home
 ---
 
-#Lots of stuff about EARs
+# Lots of stuff about EARs
